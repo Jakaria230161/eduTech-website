@@ -1,0 +1,16 @@
+/* cover picture style */
+#cover-picture{
+    filter:brightness(50%)
+}
+
+#readyTo-join-button{
+    background-color:289BDE ;
+}
+
+#explore-learning{
+    background-color: F4FAFD;
+}
+
+#explore-working-text{
+    background-color: F4FAFD;
+}
